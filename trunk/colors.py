@@ -1,0 +1,18 @@
+colors = {}
+
+colors["white"] = (255,255,255)
+colors["black"] = (0,0,0)
+colors["grey"] = (128,128,128)
+colors["darkGrey"] = (42,42,42)
+colors["middleGrey"] = (100,100,100)
+colors["lightGrey"]= (218,218,218)
+colors["green"] = (0,128,0)
+colors["darkGreen"] = (0,100,0)
+colors["lightGreen"] = (144,238,144)
+colors["blue"] = (0,0,205)
+colors["darkBlue"] = (25,25,112)
+colors["lightBlue"] = (173,216,230)
+colors["red"] = (255,0,0)
+colors["lightRed"] = (255,0,0)
+colors["red"] = (240,128,128)
+colors["darkRed"] = (139,0,0)
